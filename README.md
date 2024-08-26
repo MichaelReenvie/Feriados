@@ -13,7 +13,7 @@
 
 ## API Utilizada
 
-Este projeto consome a API pública [BrasilAPI](https://brasilapi.com.br/api/) para buscar feriados nacionais de acordo com o ano informado. A API retorna dados como nome, tipo e data do feriado.
+Este projeto consome a API pública [BrasilAPI](https://brasilapi.com.br/docs#tag/Feriados-Nacionais) para buscar feriados nacionais de acordo com o ano informado. A API retorna dados como nome, tipo e data do feriado.
 
 ## Sobre o Projeto
 
